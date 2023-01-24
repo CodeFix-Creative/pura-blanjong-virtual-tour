@@ -8,7 +8,7 @@
         <h2 class="fs-16 ls-lg text-uppercase mb-5 welcome-text text-lg-center">PURA BLANJONG DAN PRASASTI
             BLANJONG<br>DESA
             SANUR KAUH</h2>
-        <span><a href="{{ route('virtual-tour.mulai') }}" class="btn btn-lg btn-dark rounded-pill">MULAI</a></span>
+        <span><a href="https://virtualtour.imagisolution.com/" class="btn btn-lg btn-dark rounded-pill">MULAI</a></span>
     </div>
 </section>
 <section id="Penjelasan">

@@ -1,6 +1,7 @@
 <?php
 
 use Illuminate\Support\Facades\Route;
+// use File;
 
 /*
 |--------------------------------------------------------------------------
@@ -32,5 +33,5 @@ Route::get('/virtual-tour', function () {
     return view('virtualTour');
 })->name('virtual-tour');
 Route::get('/virtual-tour/mulai', function () {
-    return view('virtualTour.index');
+    return \File::get(public_path() . '\virtualTour\index.htm');;
 })->name('virtual-tour.mulai');
