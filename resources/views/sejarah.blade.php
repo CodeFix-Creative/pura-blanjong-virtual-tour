@@ -43,7 +43,7 @@
                             memisahkannya sehingga seperti sekarang ini terpisah lautan. Keinginannya terus bertambah.
                             Renggan ingin memisahkan Gunung Agung dengan daratan Pulau Bali. Rencananya membuat murka
                             para Dewa. Kelakuan I Renggan akhirnya ditentang oleh adiknya sendiri yaitu I Renggin dengan
-                            dibantu oleh Sri Kesari Warmadewa. Pertentangan tersebut akhirnya diakhiri dengan
+                            dibantu oleh Sri Kesari Warmadewa. Pertentangan  tersebut akhirnya diakhiri dengan
                             pertempuran yang dilakukan di atas perahu (jung/jong). Renggan kalah. Perahunya pecah.
                             Selanjutnya, tempat dimana terdapat perahu (jung/jong) pecah (belah) tersebut kemudian
                             menjadi nama tempat yang sekarang dikenal Blanjong. </p>
