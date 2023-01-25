@@ -32,7 +32,7 @@
                     <!--/column -->
                     <div class="col-lg-6">
                         <h2 class="mb-3">Sejarah Singkat Pura & Prasasti Blanjong</h2>
-                        <p class="lead mb-7">Di ceritakan ada seorang spiritual bernama Ki Dukuh Jumpungan sebagai
+                        <p class="lead mb-7 deskripsi-mobile">Di ceritakan ada seorang spiritual bernama Ki Dukuh Jumpungan sebagai
                             penganut ajaran Siwa yang rajin melakukan semadi di Pura Puncak Mundi Nusa Penida. Kesaktian
                             dan ajaran-ajarannya diturunkan kepada kedua putranya, I Renggan dan I Renggin. Lalu, kedua
                             putranya ini terus mengembangkan ajaran ayahandanya. Hanya saja, keduanya mengembangkannya

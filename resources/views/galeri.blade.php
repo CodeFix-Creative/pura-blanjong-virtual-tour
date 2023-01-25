@@ -18,7 +18,7 @@
                 <div class="row">
                     <div class="col-xl-7 mx-auto">
                         <h2 class="mb-3 text-center">Foto Pura Blanjong dan Prasasti Blanjong</h2>
-                        <p class="lead mb-10 text-center px-xxl-12">Beberapa dokumentasi foto tentang pura dan prasasti
+                        <p class="lead mb-10 text-center px-xxl-12 deskripsi-mobile">Beberapa dokumentasi foto tentang pura dan prasasti
                             blanjong</p>
                     </div>
                     <!-- /column -->
@@ -184,7 +184,7 @@
         <div class="card" data-aos="zoom-in">
             <div class="card-body">
                 <h2 class="mb-3 text-center">Video Pura Blanjong dan Prasasti Blanjong</h2>
-                <p class="lead mb-10 text-center px-xl-12">Dokumentasi Video tentang pura dan prasasti blanjong
+                <p class="lead mb-10 text-center px-xl-12 deskripsi-mobile">Dokumentasi Video tentang pura dan prasasti blanjong
                 </p>
                 <style>
                     .embed-container {

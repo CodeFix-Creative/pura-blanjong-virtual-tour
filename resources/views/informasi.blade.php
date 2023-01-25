@@ -17,8 +17,8 @@
             <div class="card-body">
                 <div class="row gx-lg-8 gx-xl-12 gy-10 align-items-center">
                     <div class="col-lg-12">
-                        <h2 class="mb-3 text-center mb-7">Informasi Seputar Pura</h2>
-                        <p class="lead mb-7 text-justify">Dalam melaksanakan upacara piodalan (Pemedekan Ida Bhatara) yang jatuh
+                        <h2 class="mb-3 text-center mb-7 deskripsi-mobile">Informasi Seputar Pura</h2>
+                        <p class="lead mb-7 text-justify deskripsi-mobile">Dalam melaksanakan upacara piodalan (Pemedekan Ida Bhatara) yang jatuh
                             setiap 210 hari (6 Bulan) sekali, tepatnya pada hari soma pahing wuku langkir memiliki cara
                             maupun waktu yang berbeda – beda. Pemedakan Ida Bhatara pertama dilakukan oleh kelompok
                             masyarakat Sukawati yang khusus melaksanakan kegiatan pemujaan di pelinggih Lantang Hidung,
@@ -26,13 +26,13 @@
                             Padma Capah/Padma Agung kemudian di lanjutkan di Tugu Prasasti Blanjong dan yang terakhir
                             dilakukan oleh kelompok masyarakat Desa Renon.
                         </p>
-                        <p class="lead mb-7 text-justify">Masyarakat yang ingin berkunjung untuk melakukan persembahyangan di Pura
+                        <p class="lead mb-7 text-justify deskripsi-mobile">Masyarakat yang ingin berkunjung untuk melakukan persembahyangan di Pura
                             Blanjong diperkenankan membawa Banten Pejati dan sepah ganten/lekesan yang nantinya akan
                             dihaturkan pada Pelinggih yang ada pada Pura Blanjong. Masyarakat juga diperkenankan membawa
                             sarana persembahyangan, seperti canang/bunga, dan dupa, serta menggunakan busana
                             persembahyangan lengkap.
                         </p>
-                        <p class="lead text-justify">Jika masyarakat sedang dalam keadaan cuntaka, dilarang untuk berkunjung ke Pura Blanjong
+                        <p class="lead text-justify deskripsi-mobile">Jika masyarakat sedang dalam keadaan cuntaka, dilarang untuk berkunjung ke Pura Blanjong
                             untuk menjaga kesucian areal Pura. Waktu kunjungan ke Pura Blanjong hampir sama dengan Pura
                             lain pada Umumnya. Masyarakat dapat menghubungi narahubung yang tertera untuk mengetahui
                             informasi mengenai jam kunjunganPura Blanjong.

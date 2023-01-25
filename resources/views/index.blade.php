@@ -6,7 +6,7 @@
     <div class="container vh-100 d-flex flex-column align-items-center justify-content-center" data-cues="slideInDown"
         data-group="hero">
         <h2 class="fs-16 ls-lg text-uppercase mb-5 welcome-text">Selamat Datang di</h2>
-        <h1 class="display-1 mb-8 text-lg-center h3 title-text">PURA BLANJONG DAN PRASASTI BLANJONG<br>DESA
+        <h1 class="display-1 mb-8 text-lg-center h3 title-text header-title-mobile">PURA BLANJONG DAN PRASASTI BLANJONG<br>DESA
             SANUR KAUH</h1>
         <span><a href="{{ route('virtual-tour') }}" class="btn btn-lg btn-dark rounded-pill">Virtual Tour</a></span>
     </div>
@@ -24,7 +24,7 @@
                     <!-- /column -->
                     <div class="col-lg-7">
                         <h2 class="mb-3">Sejarah Singkat Pura & Prasasti Blanjong</h2>
-                        <p class="lead mb-7">Blanjong berasal dari kata blahjung. Blah atau terbelah atau pecah,
+                        <p class="lead mb-7 deskripsi-mobile">Blanjong berasal dari kata blahjung. Blah atau terbelah atau pecah,
                             dan jung berarti perahu. Jung yang bocor, kemudian terdampar dan akhirnya pecah
                             berantakan dekat Sawang. Kata Sawang berarti palung laut yang dalam. yang kini
                             disebut dengan Semawang, Arti kata Blanjong secara keseluruhan adalah suatu tempat
@@ -50,7 +50,7 @@
         <div class="card" data-aos="fade-left">
             <div class="card-body">
                 <h2 class="mb-3 text-center">Lokasi Pura & Prasasti Blanjong</h2>
-                <p class="lead mb-10 text-center px-xl-12">Pura Blanjong merupakan Pura Dang Kahyangan, yang
+                <p class="lead mb-10 text-lg-center px-xl-12 deskripsi-mobile">Pura Blanjong merupakan Pura Dang Kahyangan, yang
                     dipuja di pura Dalem Blanjong ini adalah Ida Bhatara Dalem Blanjong. Pura Dang Kahyangan ini
                     di sungsung oleh empat desa adat yaitu desa adat Renon, desa adat Cerancam, desa adat
                     Lantang Irung dan desa adat Sukawati. Pura Blanjong terletak di Jalan Danau Poso, Desa Sanur

@@ -19,7 +19,7 @@
                     <div class="col-lg-12">
                         <h2 class="mb-3 text-center mb-7">Penjelasan Umum Virtual Tour</h2>
                         <img src="{{ asset('assets/img/photos/pura-3.jpg') }}" alt="" class="mb-7" width="100%" loading="lazy">
-                        <p class="lead text-justify">Jelajah Virtual (Virtual Tour) adalah suatu teknologi yang
+                        <p class="lead text-justify deskripsi-mobile">Jelajah Virtual (Virtual Tour) adalah suatu teknologi yang
                             menyimulasikan sebuah lokasi sesungguhnya yang terdiri dari rentetan gambar yang digabungkan
                             (stitch) untuk menghasilkan foto panorama 360 derajat. Jelajah Virtual (Virtual Tour)
                             biasanya digunakan untuk merepresentasikan berbagai macam elemen-elemen multimedia seperti
@@ -46,7 +46,7 @@
                     <div class="col-lg-12">
                         <h2 class="mb-3 text-center mb-7">Denah Pura Blanjong & Prasasti Blanjong</h2>
                         <img src="{{ asset('assets/img/photos/denah.jpg') }}" alt="" class="mb-7" width="100%" loading="lazy">
-                        <p class="lead text-justify mb-4">Adapun nama – nama Pelinggih dan Bale yang terdapat pada areal Pura
+                        <p class="lead text-justify mb-4 deskripsi-mobile">Adapun nama – nama Pelinggih dan Bale yang terdapat pada areal Pura
                             Blanjong & Prasasti Blanjong adalah sebagai berikut :
                         </p>
                         <ol>
