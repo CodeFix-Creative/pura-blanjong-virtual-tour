@@ -19,7 +19,7 @@
                         <li class="nav-item"><a class="nav-link  {{ (request()->routeIs('home')) ? 'active' : '' }}"
                                 href="{{ route('home') }}">BERANDA</a></li>
                         <li class="nav-item"><a class="nav-link {{ (request()->routeIs('virtual-tour')) ? 'active' : '' }}" href="{{ route('virtual-tour') }}">VIRTUAL TOUR</a></li>
-                        <li class="nav-item"><a class="nav-link {{ (request()->routeIs('informasi')) ? 'active' : '' }}" href="{{ route('informasi') }}">INFORMASI</a></li>
+                        {{-- <li class="nav-item"><a class="nav-link {{ (request()->routeIs('informasi')) ? 'active' : '' }}" href="{{ route('informasi') }}">INFORMASI</a></li> --}}
                         <li class="nav-item"><a class="nav-link  {{ (request()->routeIs('galeri')) ? 'active' : '' }}"
                                 href="{{ route('galeri') }}">GALERI</a></li>
                         <li class="nav-item"><a class="nav-link {{ (request()->routeIs('tentang')) ? 'active' : '' }}" href="{{ route('tentang') }}">TENTANG</a></li>

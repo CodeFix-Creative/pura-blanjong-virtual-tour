@@ -23,15 +23,15 @@ Route::get('/galeri', function () {
 Route::get('/sejarah', function () {
     return view('sejarah');
 })->name('sejarah');
-Route::get('/informasi', function () {
-    return view('informasi');
-})->name('informasi');
 Route::get('/tentang', function () {
-    return view('tentang');
+    return view('informasi');
 })->name('tentang');
+// Route::get('/tentang', function () {
+//     return view('tentang');
+// })->name('tentang');
 Route::get('/virtual-tour', function () {
     return view('virtualTour');
 })->name('virtual-tour');
-Route::get('/virtual-tour/mulai', function () {
-    return \File::get(public_path() . '\virtualTour\index.htm');;
-})->name('virtual-tour.mulai');
+// Route::get('/virtual-tour/mulai', function () {
+//     return \File::get(public_path() . '\virtualTour\index.htm');;
+// })->name('virtual-tour.mulai');

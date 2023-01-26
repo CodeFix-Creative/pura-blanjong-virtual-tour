@@ -45,7 +45,9 @@
                 <div class="row gx-lg-8 gx-xl-12 gy-10 align-items-center">
                     <div class="col-lg-12">
                         <h2 class="mb-3 text-center mb-7">Denah Pura Blanjong & Prasasti Blanjong</h2>
-                        <img src="{{ asset('assets/img/photos/denah.jpg') }}" alt="" class="mb-7" width="100%" loading="lazy">
+                        <div class="text-center">
+                           <img src="{{ asset('assets/img/photos/denah.jpg') }}" alt="" class="mb-7 w-100-mobile" loading="lazy">
+                        </div>
                         <p class="lead text-justify mb-4 deskripsi-mobile">Adapun nama – nama Pelinggih dan Bale yang terdapat pada areal Pura
                             Blanjong & Prasasti Blanjong adalah sebagai berikut :
                         </p>

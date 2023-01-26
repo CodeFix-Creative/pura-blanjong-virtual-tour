@@ -36,4 +36,8 @@
       font-size: 15px !important;
       text-align: justify !important;
    }
+
+   .w-100-mobile{
+      width: 100% !important;
+   }
 }

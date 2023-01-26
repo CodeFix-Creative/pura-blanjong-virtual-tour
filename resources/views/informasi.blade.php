@@ -4,7 +4,7 @@
 <section id="home">
     <div class="container vh-100 d-flex flex-column align-items-center justify-content-center" data-cues="slideInDown"
         data-group="hero">
-        <h1 class="display-1 mb-8 text-lg-center h3 title-text">INFORMASI</h1>
+        <h1 class="display-1 mb-8 text-lg-center h3 title-text">TENTANG</h1>
         <h2 class="fs-16 ls-lg text-uppercase mb-5 welcome-text text-lg-center">PURA BLANJONG DAN PRASASTI
             BLANJONG<br>DESA
             SANUR KAUH</h2>
@@ -18,7 +18,13 @@
                 <div class="row gx-lg-8 gx-xl-12 gy-10 align-items-center">
                     <div class="col-lg-12">
                         <h2 class="mb-3 text-center mb-7 deskripsi-mobile">Informasi Seputar Pura</h2>
-                        <p class="lead mb-7 text-justify deskripsi-mobile">Dalam melaksanakan upacara piodalan (Pemedekan Ida Bhatara) yang jatuh
+                        <p class="lead mb-7 text-justify deskripsi-mobile">Pura Blanjong merupakan pura Dang Kahyangan.
+                            yang dipuja di Pura Dalem Blanjong ini adalah Ida Bhatara Dalem Blanjong. Pura Dang
+                            Kahyangan ini disusung oleh empat Desa Adat yaitu Desa Adat Renon, Desa Adat Cerancam, Desa
+                            Adat Lantang Irung dan Desa Adat Suka
+                        </p>
+                        <p class="lead mb-7 text-justify deskripsi-mobile">Dalam melaksanakan upacara piodalan
+                            (Pemedekan Ida Bhatara) yang jatuh
                             setiap 210 hari (6 Bulan) sekali, tepatnya pada hari soma pahing wuku langkir memiliki cara
                             maupun waktu yang berbeda – beda. Pemedakan Ida Bhatara pertama dilakukan oleh kelompok
                             masyarakat Sukawati yang khusus melaksanakan kegiatan pemujaan di pelinggih Lantang Hidung,
@@ -26,16 +32,45 @@
                             Padma Capah/Padma Agung kemudian di lanjutkan di Tugu Prasasti Blanjong dan yang terakhir
                             dilakukan oleh kelompok masyarakat Desa Renon.
                         </p>
-                        <p class="lead mb-7 text-justify deskripsi-mobile">Masyarakat yang ingin berkunjung untuk melakukan persembahyangan di Pura
+                        <p class="lead mb-7 text-justify deskripsi-mobile">Masyarakat yang ingin berkunjung untuk
+                            melakukan persembahyangan di Pura
                             Blanjong diperkenankan membawa Banten Pejati dan sepah ganten/lekesan yang nantinya akan
                             dihaturkan pada Pelinggih yang ada pada Pura Blanjong. Masyarakat juga diperkenankan membawa
                             sarana persembahyangan, seperti canang/bunga, dan dupa, serta menggunakan busana
                             persembahyangan lengkap.
                         </p>
-                        <p class="lead text-justify deskripsi-mobile">Jika masyarakat sedang dalam keadaan cuntaka, dilarang untuk berkunjung ke Pura Blanjong
+                        <p class="lead text-justify deskripsi-mobile">Jika masyarakat sedang dalam keadaan cuntaka,
+                            dilarang untuk berkunjung ke Pura Blanjong
                             untuk menjaga kesucian areal Pura. Waktu kunjungan ke Pura Blanjong hampir sama dengan Pura
                             lain pada Umumnya. Masyarakat dapat menghubungi narahubung yang tertera untuk mengetahui
                             informasi mengenai jam kunjunganPura Blanjong.
+                        </p>
+                    </div>
+                    <!--/column -->
+                </div>
+                <!--/.row -->
+            </div>
+            <!--/.card-body -->
+        </div>
+        <!--/.card -->
+    </div>
+</section>
+<section id="prasasti">
+    <div class="container pt-7 pb-15">
+        <div class="card" data-aos="flip-left">
+            <div class="card-body">
+                <div class="row gx-lg-8 gx-xl-12 gy-10 align-items-center">
+                    <div class="col-lg-12">
+                        <h2 class="mb-3 text-center mb-7 deskripsi-mobile">Informasi Seputar Prasasti</h2>
+                        <p class="lead mb-7 text-justify deskripsi-mobile">Prasasti Blanjong merupakan prasasti yang
+                            dibuat dari bahan batu padas, disebut sila prasasti. Prasasti ini berbentuk tiang batu atau
+                            berwujud bunga teratai. Ukuran prasasti dengan tinggi 177 cm dan garis tengah sekitar 62 cm.
+                            isi dalam prasasti tersebut adalah “Pada tahun 835 (913 M) Bulan palguna, seorang Raja yang
+                            berkuasa di seluruh dunia, beristana di Keraton Singhadwala Bergelar Sri Kesari Warmadewa
+                            yang telah berhasil mengalahkan musuh – musuh di Gurun dan Swal”. Prasasti Blanjong
+                            merupakan peninggalan dari Raja Bali yaitu Sri Kesari Warmadewa, prasasti blanjong masuk
+                            kedalam daftar cagar budaya nasional yang dilindungi oleh: undang-undang RI no.5 tahun 1992
+                            tentang suaka peninggalan sejarah dan purbakala prop bali-ntb-ntt".
                         </p>
                     </div>
                     <!--/column -->
@@ -55,19 +90,23 @@
                     <h2 class="mb-3 text-center mb-7">Narahubung</h2>
                     <div class="col-lg-6 text-center">
                         <div class="image-pengurus mb-7">
-                           <img src="{{ asset('assets/img/photos/pengurus-1.jpg') }}" alt="" class="rounded shadow width-mobile-100" loading="lazy">
+                            <img src="{{ asset('assets/img/photos/pengurus-1.jpg') }}" alt=""
+                                class="rounded shadow width-mobile-100" loading="lazy">
                         </div>
                         <h3 class="mb-3 text-center">Jro Mangku Segara</h3>
                         <p class="lead mb-5 text-center">Jro Mangku Pura Blanjong</p>
-                        <a href="" class="text-decoration-none text-white" style="font-size: 25px;"><i class="fa-solid fa-phone"></i></a>
+                        <a href="tel:+6281337779971" class="text-decoration-none text-white" style="font-size: 25px;"><i
+                                class="fa-solid fa-phone"></i></a>
                     </div>
                     <div class="col-lg-6 text-center">
                         <div class="image-pengurus mb-7">
-                           <img src="{{ asset('assets/img/photos/pengurus-2.jpg') }}" alt="" class="rounded shadow width-mobile-100" loading="lazy">
+                            <img src="{{ asset('assets/img/photos/pengurus-2.jpg') }}" alt=""
+                                class="rounded shadow width-mobile-100" loading="lazy">
                         </div>
                         <h3 class="mb-3 text-center">I Wayan Destra Nesa</h3>
                         <p class="lead mb-5 text-center">Pengempon Pura Blanjong</p>
-                        <a href="" class="text-decoration-none text-white" style="font-size: 25px;"><i class="fa-solid fa-phone"></i></a>
+                        <a href="tel:+6282146564079" class="text-decoration-none text-white" style="font-size: 25px;"><i
+                                class="fa-solid fa-phone"></i></a>
                     </div>
                     <!--/column -->
                 </div>
