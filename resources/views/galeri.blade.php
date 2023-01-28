@@ -37,7 +37,7 @@
                     <div class="row gx-md-6 gy-6 isotope">
                         <div class="item col-md-6 col-xl-4 pura">
                             <figure class="overlay rounded"><a href="{{ asset('assets/img/photos/galeri-pura-1.jpg') }}"
-                                    data-glightbox="title: Pellentesque Bibendum Vestibulum; description: Praesent commodo cursus magna, vel scelerisque nisl consectetur."
+                                    data-glightbox="title: Pelinggih Ratu Tuan ; description: Merupakan linggih dari Ida Ratu Tuan.  Linggih Ida Ratu Tuan ini berkaitan dengan tarian baris cina dan gong beri yang penyebutanan muncul pada Tugu Prasasti Blanjong ( Jaya stmbha ) pada tahun 835 ( 931 Masehi) yang dikeluarkan oleh Sri Kesari Warmadewa dengan kata behri."
                                     data-gallery="g-portfolio"> <img
                                         src="{{ asset('assets/img/photos/galeri-pura-1.jpg') }}"
                                         srcset="{{ asset('assets/img/photos/galeri-pura-1.jpg') }} 2x" alt="" loading="lazy" /></a>
@@ -47,7 +47,7 @@
                         <!-- /.item -->
                         <div class="item col-md-6 col-xl-4 pura">
                             <figure class="overlay rounded"><a href="{{ asset('assets/img/photos/galeri-pura-2.jpg') }}"
-                                    data-glightbox="title: Pellentesque Bibendum Vestibulum; description: Praesent commodo cursus magna, vel scelerisque nisl consectetur."
+                                    data-glightbox="title: Pelinggih Ida bhatari Syahbandar; description: Merupakan Linggih dari Ida Bhatari Syahbandar. ida bhatari syahbadar merupakan perwujudan dari dewi yang dipercayai oleh kepercayaan di luar Agama Hindu khususnya Budha (Rulai)."
                                     data-gallery="g-portfolio"> <img
                                         src="{{ asset('assets/img/photos/galeri-pura-2.jpg') }}"
                                         srcset="{{ asset('assets/img/photos/galeri-pura-2.jpg') }} 2x" alt="" loading="lazy" /></a>
@@ -57,7 +57,7 @@
                         <!-- /.item -->
                         <div class="item col-md-6 col-xl-4 pura">
                             <figure class="overlay rounded"><a href="{{ asset('assets/img/photos/galeri-pura-3.jpg') }}"
-                                    data-glightbox="title: Pellentesque Bibendum Vestibulum; description: Praesent commodo cursus magna, vel scelerisque nisl consectetur."
+                                    data-glightbox="title: Pelinggih Tajuk; description: Pelinggih Tajuk memiliki fungsi sebagai tempat untuk untuk ngelinggihang atau menstanakan berbagai perwujudan Simbol-simbol Tuhan atau Ida Betara dan Betari ketika upacara Piodalan serta sebagai tempat mengaturkan upakara saat ada upacara besar atau kecil."
                                     data-gallery="g-portfolio"> <img
                                         src="{{ asset('assets/img/photos/galeri-pura-3.jpg') }}"
                                         srcset="{{ asset('assets/img/photos/galeri-pura-3.jpg') }} 2x" alt="" loading="lazy" /></a>
@@ -67,7 +67,7 @@
                         <!-- /.item -->
                         <div class="item col-md-6 col-xl-4 pura">
                             <figure class="overlay rounded"><a href="{{ asset('assets/img/photos/galeri-pura-4.jpg') }}"
-                                    data-glightbox="title: Pellentesque Bibendum Vestibulum; description: Praesent commodo cursus magna, vel scelerisque nisl consectetur."
+                                    data-glightbox="title: Pelinggih Lingga Yoni; description: Pelinggih Lingga yoni memiliki fungsi sebagai linggih dari siwa buda dimana pada bagian atasnya terpada lingga yang berbentuk seperti lesung dan yoni seperti penumbuk."
                                     data-gallery="g-portfolio"> <img
                                         src="{{ asset('assets/img/photos/galeri-pura-4.jpg') }}"
                                         srcset="{{ asset('assets/img/photos/galeri-pura-4.jpg') }} 2x" alt="" loading="lazy" /></a>
@@ -77,7 +77,7 @@
                         <!-- /.item -->
                         <div class="item col-md-6 col-xl-4 pura">
                             <figure class="overlay rounded"><a href="{{ asset('assets/img/photos/galeri-pura-5.jpg') }}"
-                                    data-glightbox="title: Pellentesque Bibendum Vestibulum; description: Praesent commodo cursus magna, vel scelerisque nisl consectetur."
+                                    data-glightbox="title: Pelinggih Padma Capah ; description: Pelinggih Padma capah merupakan linggih dari ida bhatara sanimian dimana pada saat upacara berlangsung. segala pratima yang digunakan akan diletakan di pelinggih ini."
                                     data-gallery="g-portfolio"> <img
                                         src="{{ asset('assets/img/photos/galeri-pura-5.jpg') }}"
                                         srcset="{{ asset('assets/img/photos/galeri-pura-5.jpg') }} 2x" alt="" loading="lazy" /></a>
@@ -87,7 +87,7 @@
                         <!-- /.item -->
                         <div class="item col-md-6 col-xl-4 pura">
                             <figure class="overlay rounded"><a href="{{ asset('assets/img/photos/galeri-pura-6.jpg') }}"
-                                    data-glightbox="title: Pellentesque Bibendum Vestibulum; description: Praesent commodo cursus magna, vel scelerisque nisl consectetur."
+                                    data-glightbox="title: PPelinggih Jero Luh; description: Pelinggih Jro Luh memiliki fungsi sebagai linggih dari Jero Luh. di dalam linggih jro luh terdapat beberapa fragmen peninggalan."
                                     data-gallery="g-portfolio"> <img
                                         src="{{ asset('assets/img/photos/galeri-pura-6.jpg') }}"
                                         srcset="{{ asset('assets/img/photos/galeri-pura-6.jpg') }} 2x" alt="" loading="lazy" /></a>
@@ -95,19 +95,19 @@
                             </figure>
                         </div>
                         <!-- /.item -->
-                        <div class="item col-md-6 col-xl-4 pura">
+                        {{-- <div class="item col-md-6 col-xl-4 pura">
                             <figure class="overlay rounded"><a href="{{ asset('assets/img/photos/galeri-pura-7.jpg') }}"
-                                    data-glightbox="title: Pellentesque Bibendum Vestibulum; description: Praesent commodo cursus magna, vel scelerisque nisl consectetur."
+                                    data-glightbox="title: Bale Banten ; description: Bale Banten memiliki fungsi sebagai tempat pembuatan serta tempat penyimpanan banten. banten yang biasanya di buat seperti. canang, pejati,kuwangen, sampian dan lain- lain. "
                                     data-gallery="g-portfolio"> <img
                                         src="{{ asset('assets/img/photos/galeri-pura-7.jpg') }}"
                                         srcset="{{ asset('assets/img/photos/galeri-pura-7.jpg') }} 2x" alt="" loading="lazy" /></a>
                                 <figcaption><i class="si-photo_aperture"></i></figcaption>
                             </figure>
-                        </div>
+                        </div> --}}
                         <!-- /.item -->
                         <div class="item col-md-6 col-xl-4 pura">
                             <figure class="overlay rounded"><a href="{{ asset('assets/img/photos/galeri-pura-8.jpg') }}"
-                                    data-glightbox="title: Pellentesque Bibendum Vestibulum; description: Praesent commodo cursus magna, vel scelerisque nisl consectetur."
+                                    data-glightbox="title: Bale Banten ; description: Bale Banten memiliki fungsi sebagai tempat pembuatan serta tempat penyimpanan banten. banten yang biasanya di buat seperti. canang, pejati,kuwangen, sampian dan lain- lain."
                                     data-gallery="g-portfolio"> <img
                                         src="{{ asset('assets/img/photos/galeri-pura-8.jpg') }}"
                                         srcset="{{ asset('assets/img/photos/galeri-pura-8.jpg') }} 2x" alt="" loading="lazy" /></a>
@@ -117,7 +117,7 @@
                         <!-- /.item -->
                         <div class="item col-md-6 col-xl-4 pura">
                             <figure class="overlay rounded"><a href="{{ asset('assets/img/photos/galeri-pura-9.jpg') }}"
-                                    data-glightbox="title: Pellentesque Bibendum Vestibulum; description: Praesent commodo cursus magna, vel scelerisque nisl consectetur."
+                                    data-glightbox="title: Pelinggih Lantang hindung; description: Pelinggih Lantang  Hidung Memiliki fungsi sebagai linggih Ida bhatara dalem blanjong. Pelinggih Lantang Hidung   ini memiliki kisah yang dikenal dengan “Legu Gondong"
                                     data-gallery="g-portfolio"> <img
                                         src="{{ asset('assets/img/photos/galeri-pura-9.jpg') }}"
                                         srcset="{{ asset('assets/img/photos/galeri-pura-9.jpg') }} 2x" alt="" loading="lazy" /></a>
@@ -125,7 +125,7 @@
                             </figure>
                         </div>
                         <!-- /.item -->
-                        <div class="item col-md-6 col-xl-4 pura">
+                        {{-- <div class="item col-md-6 col-xl-4 pura">
                             <figure class="overlay rounded"><a
                                     href="{{ asset('assets/img/photos/galeri-pura-10.jpg') }}"
                                     data-glightbox="title: Pellentesque Bibendum Vestibulum; description: Praesent commodo cursus magna, vel scelerisque nisl consectetur."
@@ -134,12 +134,12 @@
                                         srcset="{{ asset('assets/img/photos/galeri-pura-10.jpg') }} 2x" alt="" loading="lazy" /></a>
                                 <figcaption><i class="si-photo_aperture"></i></figcaption>
                             </figure>
-                        </div>
+                        </div> --}}
                         <!-- /.item -->
                         <div class="item col-md-6 col-xl-4 pura">
                             <figure class="overlay rounded"><a
                                     href="{{ asset('assets/img/photos/galeri-pura-11.jpg') }}"
-                                    data-glightbox="title: Pellentesque Bibendum Vestibulum; description: Praesent commodo cursus magna, vel scelerisque nisl consectetur."
+                                    data-glightbox="title: Bale Gong; description: Bale Gong Memiliki fungsi sebagai tempat penyimpanan gamelan atau gong pada saat upacara berlangsung. gamelan atau gong yang biasanya digunakan adalah Gamelan Bale Ganjur dan Gong Behri."
                                     data-gallery="g-portfolio"> <img
                                         src="{{ asset('assets/img/photos/galeri-pura-11.jpg') }}"
                                         srcset="{{ asset('assets/img/photos/galeri-pura-11.jpg') }} 2x" alt="" loading="lazy" /></a>
@@ -150,18 +150,18 @@
                         <div class="item col-md-6 col-xl-4 prasasti">
                             <figure class="overlay rounded"><a
                                     href="{{ asset('assets/img/photos/galeri-prasasti-1.jpg') }}"
-                                    data-glightbox="title: Pellentesque Bibendum Vestibulum; description: Praesent commodo cursus magna, vel scelerisque nisl consectetur."
+                                    data-glightbox="title: Prasasti Blanjong; description: "
                                     data-gallery="g-portfolio"> <img
                                         src="{{ asset('assets/img/photos/galeri-prasasti-1.jpg') }}"
                                         srcset="{{ asset('assets/img/photos/galeri-prasasti-1.jpg') }} 2x" alt="" loading="lazy" /></a>
-                                <figcaption><i class="si-photo_aperture"></i></figcaption>
+                                {{-- <figcaption><i class="si-photo_aperture"></i></figcaption> --}}
                             </figure>
                         </div>
                         <!-- /.item -->
                         <div class="item col-md-6 col-xl-4 prasasti">
                             <figure class="overlay rounded"><a
                                     href="{{ asset('assets/img/photos/galeri-prasasti-2.jpg') }}"
-                                    data-glightbox="title: Pellentesque Bibendum Vestibulum; description: Praesent commodo cursus magna, vel scelerisque nisl consectetur."
+                                    data-glightbox="title: Prasasti Blanjong; description: "
                                     data-gallery="g-portfolio"> <img
                                         src="{{ asset('assets/img/photos/galeri-prasasti-2.jpg') }}"
                                         srcset="{{ asset('assets/img/photos/galeri-prasasti-2.jpg') }} 2x" alt="" loading="lazy" /></a>

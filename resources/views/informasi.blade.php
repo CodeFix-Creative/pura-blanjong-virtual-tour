@@ -21,7 +21,7 @@
                         <p class="lead mb-7 text-justify deskripsi-mobile">Pura Blanjong merupakan pura Dang Kahyangan.
                             yang dipuja di Pura Dalem Blanjong ini adalah Ida Bhatara Dalem Blanjong. Pura Dang
                             Kahyangan ini disusung oleh empat Desa Adat yaitu Desa Adat Renon, Desa Adat Cerancam, Desa
-                            Adat Lantang Irung dan Desa Adat Suka
+                            Adat Lantang Irung dan Desa Adat Sukawati
                         </p>
                         <p class="lead mb-7 text-justify deskripsi-mobile">Dalam melaksanakan upacara piodalan
                             (Pemedekan Ida Bhatara) yang jatuh
